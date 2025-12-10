@@ -648,7 +648,7 @@
     "show_boring_indicators": { "message": "在关注中/粉丝页面的用户昵称后方添加一个表示其最近推文的图标<br>图标示意：<span class=\"user-indicator-retweeted\"></span> 转推的 / <span class=\"user-indicator-quoted\"></span> 引用的 / <span class=\"user-indicator-no-status\"></span> 不存在的 / <span class=\"user-indicator-old\"></span> 有段时间（一周以上）的"},
     "hide_original_languages":{"message": "翻译推文后隐藏原文" },
     "blocked": { "message": "已屏蔽" },
-	"use_retweeted_id": { "message": "当喜欢或转推某条推文时，通知转推这条推文的用户" },
+	"use_retweeted_id": { "message": "当喜欢或转推某条推文时，同时通知转推这条推文的用户" },
     "show_based_in": { "message": "显示账号所在地" },
     "based_in": { "message": "位于：" },
     "based_in_vpn": { "message": "(VPN)" }
